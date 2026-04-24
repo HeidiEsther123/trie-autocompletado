@@ -2,7 +2,7 @@
 
 > **Proyecto Final — Estructura de Datos · Unidad 3**  
 > Giovana Díaz y Heidi Peña | Grupo 2A | 2do cuatrimestre  
-> Tecnológico de Software — Abril 2026
+> Tecnológico de Software — 23 Abril 2026
 
 ---
 
